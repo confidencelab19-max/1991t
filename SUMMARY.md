@@ -47,10 +47,20 @@
 * [전후사진 등록](photos/upload.md)
 * [전후사진 규정](photos/rules.md)
 
-## 의료법 가이드 <a href="#medical-law" id="medical-law"></a>
+## 의료법 준수 가이드 <a href="#medical-law" id="medical-law"></a>
 
-* [금지 표현](medical-law/prohibited.md)
-* [가격 표시 규정](medical-law/pricing.md)
+* [개요](medical-law/README.md)
+* [의료기관 명칭·진료과목](medical-law/naming.md)
+* [전문의·경력·학회](medical-law/doctor-info.md)
+* [금지 표현 총정리](medical-law/prohibited-words.md)
+* [치료경험담·전후사진](medical-law/photos.md)
+* [비교·비방 광고](medical-law/compare.md)
+* [환자유인 행위](medical-law/patient-inducement.md)
+* [가격·보험·제휴](medical-law/pricing.md)
+* [부작용·심의·처벌](medical-law/safety.md)
+* [플랫폼 규칙](medical-law/platform-rules.md)
+* [최종 체크리스트](medical-law/checklist.md)
+* [문제 대응 가이드](medical-law/emergency.md)
 
 ## 시술별 가이드 <a href="#procedures" id="procedures"></a>
 
